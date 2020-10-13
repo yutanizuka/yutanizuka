@@ -1,5 +1,7 @@
-### Hi there 👋
+Hi,there I'm nizutaro
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Nizutaro's github stats](https://github-readme-stats.vercel.app/api?username=nizutaro)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nizutaro/nizutaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
