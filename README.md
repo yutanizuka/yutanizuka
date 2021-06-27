@@ -6,7 +6,6 @@
 [![Nizutaro's github stats](https://github-readme-stats.vercel.app/api?username=nizutaro)](https://github.com/nizutaro/github-readme-stats)
 
 <div align="center">
-<a href="http://twitter.com/gumiponz"><img height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00t.svg" ></a>
 <a href="https://github.com/nizutaro"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00git.svg" ></a>
   <a href= "https://qiita.com/NDK" alt="Qiita"></a>
 </div>
