@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://nizutaro.github.io/">nizutaro</a>👋</h1> 	   
+  <p>nizuka</p>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizutaro&layout=compact)](https://github.com/nizutaro/github-readme-stats)
