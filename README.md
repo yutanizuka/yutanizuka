@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://yutanizuka.github.io/">nizuka</a>👋</h1> 	   
-  <p>nizuka</p>
+  <p>日本語：二塚 優太</p>
+  <p>English:Yuta Nizuka or kevin</p>
 </div>
 
 <p align="left"> 
