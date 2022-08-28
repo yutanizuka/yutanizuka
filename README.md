@@ -3,8 +3,11 @@
   <p>nizuka</p>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutanizuka&layout=compact)](https://github.com/nizutaro/github-readme-stats)
-[![Nizuka's github stats](https://github-readme-stats.vercel.app/api?username=yutanizuka)](https://github.com/yutanizuka/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutanizuka&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutanizuka&theme=onedark&show_icons=ture" />
+</p>
+
 
 <div align="center">
 <a href="https://github.com/yutanizuka"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00git.svg" ></a>
