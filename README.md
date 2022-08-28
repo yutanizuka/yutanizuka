@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://nizutaro.github.io/">nizuka</a>👋</h1> 	   
+  <h1>Hi there, I'm <a href="https://yutanizuka.github.io/">nizuka</a>👋</h1> 	   
   <p>nizuka</p>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizutaro&layout=compact)](https://github.com/nizutaro/github-readme-stats)
-[![Nizuka's github stats](https://github-readme-stats.vercel.app/api?username=yutanizuka)](https://github.com/nizutaro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutanizuka&layout=compact)](https://github.com/nizutaro/github-readme-stats)
+[![Nizuka's github stats](https://github-readme-stats.vercel.app/api?username=yutanizuka)](https://github.com/yutanizuka/github-readme-stats)
 
 <div align="center">
-<a href="https://github.com/nizutaro"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00git.svg" ></a>
+<a href="https://github.com/yutanizuka"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00git.svg" ></a>
   <a href= "https://qiita.com/NDK" alt="Qiita"></a>
 </div>
 
