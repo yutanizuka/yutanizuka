@@ -14,6 +14,8 @@
   <a href= "https://qiita.com/NDK" alt="Qiita"></a>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yutanizuka&theme=onedark&show_icons=ture)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **nizuka/nizuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
