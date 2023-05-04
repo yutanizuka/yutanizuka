@@ -10,12 +10,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutanizuka)]
 
 
-<div align="center">
-<a href="https://github.com/yutanizuka"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00git.svg" ></a>
-<!--   <a href= "https://qiita.com/NDK" alt="Qiita"></a> -->
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutanizuka
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutanizuka
 )
 
 <!--
