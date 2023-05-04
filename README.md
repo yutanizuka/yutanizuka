@@ -6,8 +6,7 @@
 
 
  
-![trophy](https://github-profile-trophy.vercel.app/?username=yutanizuka&theme=onedark&show_icons=ture&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=yutanizuka&theme=onedark&show_icons=ture&column=7)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutanizuka&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutanizuka)
 
