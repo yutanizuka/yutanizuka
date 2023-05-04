@@ -9,8 +9,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yutanizuka&theme=onedark&show_icons=ture&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutanizuka)
 
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=yutanizuka)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutanizuka)]
 
 <!--
 **nizuka/nizuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
