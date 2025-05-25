@@ -35,7 +35,7 @@ const nizuka = {
 
 - 🔭 現在取り組んでいること: **GISアプリケーション開発**
 - 🌱 専門分野: **AWS Cloud Services, Infrastructure as Code**
-- ☁️ AWS認定を目指して日々学習中
+
 
 ---
 
@@ -73,6 +73,25 @@ const nizuka = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+---
+
+## 🏅 AWS Certifications
+
+<div align="center">
+  <p>
+    <a href="https://www.credly.com/badges/914c755e-6231-4f9f-98e3-cb8360aedb89/public_url" target="_blank">
+      <img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="110" height="110" />
+    </a>
+    <a href="https://www.credly.com/badges/ad8517c3-e258-4a06-91c2-26eddceedbb5/public_url" target="_blank">
+      <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110" height="110" />
+    </a>
+    <a href="https://www.credly.com/badges/b00d85e8-cb14-4144-a050-82fd62e19ce7/public_url" target="_blank">
+      <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110" />
+    </a>
+    
+  </p>
+</div>
 
 ---
 
