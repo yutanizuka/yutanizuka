@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E90FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nizuka!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E90FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nizuka!+%F0%9F%91%8B;AWS+Engineer+%26+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   
   <h1>🚀 Yuta Nizuka</h1>
   <p>
@@ -24,24 +24,32 @@
 ```typescript
 const nizuka = {
   pronouns: "he/him",
+  role: "AWS Engineer",
   location: "Japan 🗾",
   languages: ["Japanese", "English"],
-  currentFocus: "Building amazing web applications",
+  currentFocus: "Building scalable cloud infrastructure and GIS applications",
+  expertise: ["AWS Solutions", "Cloud Architecture", "Database Automation"],
   funFact: "I love solving complex problems with elegant code! ⚡"
 };
 ```
 
-- 🔭 現在取り組んでいること: **GISアプリケーション**
-- 🌱 学習中: **AWS**
+- 🔭 現在取り組んでいること: **GISアプリケーション開発**
+- 🌱 専門分野: **AWS Cloud Services, Infrastructure as Code**
+- ☁️ AWS認定を目指して日々学習中
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!--![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <!--![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)-->
 
@@ -55,16 +63,16 @@ const nizuka = {
 
 ### Backend & Database
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
